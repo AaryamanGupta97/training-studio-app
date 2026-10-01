@@ -1,6 +1,10 @@
 {
   "channels/api-1/latest.json": [
     {
+      "version": 2,
+      "blob": "blobs/84df8841919ff327bc61df4aa9bb4cfacce99679bf82b075b7e8b1fe43063733.bin"
+    },
+    {
       "version": 1,
       "blob": "blobs/8aa71bfa9a2bcfd690dc27c2d15e42d075c10bace10b58a248f31ccc4385804d.bin"
     }
